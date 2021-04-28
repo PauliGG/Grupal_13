@@ -1,16 +1,12 @@
 ﻿integrantes:
 
 Fabiola Castillo 
-https://fcastitt.github.io/Evaluacion_modulo3/
 
 Paulina Gomez 
-https://pauligg.github.io/Evaluacion_modulo_3/
 
 Patricio Sanhueza 
-https://patr1c1o-sanhueza.github.io/Evaluaci-n_Final_M3/
 
 Ramon Torres  
-https://xander9141.github.io/evaluacion_final_M3/
 
 ***************
 
